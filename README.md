@@ -1,8 +1,9 @@
-# Các bước tiền xử lý dữ liệu văn bản 
+Các bước tiền xử lý dữ liệu văn bản 
 
 - Chuẩn hóa unicode
 - Chuẩn hóa ký tự 
 - Chuẩn hóa dấu 
+- Loại bỏ các ký tự đặc biệt (thẻ html, ...)
 
 - File Loading
 - Tách từ 
