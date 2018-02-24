@@ -1,6 +1,6 @@
 Các bước tiền xử lý dữ liệu văn bản 
 
-- Chuẩn hóa unicode
+- Chuẩn hóa unicode (unicode tổ hợp và dựng sẵn)
 - Chuẩn hóa ký tự 
 - Chuẩn hóa dấu 
 - Loại bỏ các ký tự đặc biệt (thẻ html, ...)
